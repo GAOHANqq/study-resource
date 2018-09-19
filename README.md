@@ -25,3 +25,4 @@
 5. https://github.com/baijunyao/use-gulp
 6. https://github.com/jikeytang/sublime-text
 7. https://github.com/phodal/growth-ebook
+8. http://baijunyao.com
