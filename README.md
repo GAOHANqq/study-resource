@@ -1,6 +1,6 @@
 ## 说明
 对平时看到的资源进行收集整理；  
-这次我不是知识的创作者；我只是知识的搬运工；
+我只是知识的搬运工；
 
 ## 资源链接
 - [全栈增长工程师指南](全栈增长工程师指南.md)
@@ -25,8 +25,4 @@
 5. https://github.com/baijunyao/use-gulp
 6. https://github.com/jikeytang/sublime-text
 7. https://github.com/phodal/growth-ebook
-
-## 链接
-- 官网：http://baijunyao.com
-- github：https://github.com/baijunyao/resources
-- oschina：http://git.oschina.net/shuaibai123/resources
+8.http://baijunyao.com
